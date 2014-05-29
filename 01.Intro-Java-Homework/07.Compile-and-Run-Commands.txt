@@ -1,0 +1,18 @@
+1)In Windows set path to javac.exe and java.exe:
+right click Computer/Properties/Advanced System Settings/Environment Variables/System Variables/Path/Edit/add";C:\Program Files\Java\jdk1.8.0_05\bin"
+
+2) Go to file's destination directory, shift+right click/open command window here
+
+3)Used commands:
+
+1.javac SumTwoNumbers.java
+
+2.java SumTwoNumbers
+
+    or 
+Go to file's destination directory, shift+right click/open command window here and write:
+
+1.set PATH="%PATH%;C:\Program Files\Java\jdk1.8.0_05\bin
+2.javac SumTwoNumbers.java
+3.java SumTwoNumbers
+

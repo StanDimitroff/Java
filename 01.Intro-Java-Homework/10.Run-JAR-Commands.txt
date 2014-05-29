@@ -1,0 +1,6 @@
+Used commands:
+
+1.cd desktop/navigate to the desination directory/
+2.java -jar GeneratePDF.jar
+
+or double click GeneratePDF.jar
