@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 
@@ -7,6 +8,7 @@ public class _09_PointsInsideTheHouse {
 	//Your program should print "Inside" or "Outside". 
 
 	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT);
 		Scanner in = new Scanner(System.in);
         double x = in.nextDouble();
         double y = in.nextDouble();
