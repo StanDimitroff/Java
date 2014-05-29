@@ -1,7 +1,0 @@
-
-
-<<<<<<< HEAD
-Are u sure?
-=======
-Come oooon
->>>>>>> 9fb76a1be6d477758dcae2ca5221759e1e434324
